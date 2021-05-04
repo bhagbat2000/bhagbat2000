@@ -1,11 +1,11 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Bhagbat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagbat2000&label=Profile%20views&color=0e75b6&style=flat" alt="bhagbat2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagbat2000" alt="bhagbat2000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@bhagbatmishra" target="blank"><img src="https://img.shields.io/twitter/follow/@bhagbatmishra?logo=twitter&style=for-the-badge" alt="@bhagbatmishra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhagbatmishra" target="blank"><img src="https://img.shields.io/twitter/follow/bhagbatmishra?logo=twitter&style=for-the-badge" alt="bhagbatmishra" /></a> </p>
 
 - 🌱 I’m currently learning **DIJANGO, MACHINELEARNING**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@bhagbatmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@bhagbatmishra" height="30" width="40" /></a>
+<a href="https://twitter.com/bhagbatmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="bhagbatmishra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhagbat prasad mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bhagbat prasad mishra" height="30" width="40" /></a>
 <a href="https://fb.com/mishra bhagbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="mishra bhagbat" height="30" width="40" /></a>
 <a href="https://instagram.com/_z_e_p_h_r_u_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_z_e_p_h_r_u_s" height="30" width="40" /></a>
@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagbat2000&show_icons=true&locale=en&layout=compact" alt="bhagbat2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagbat2000&show_icons=true&locale=en" alt="bhagbat2000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagbat2000&" alt="bhagbat2000" /></p>
